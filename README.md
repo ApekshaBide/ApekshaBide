@@ -1,53 +1,87 @@
-<h2 align="center">👋 Hi there! I'm Apeksha Vilas Bide</h2>
-<h3 align="center">💻 Full Stack Developer | MERN Stack | Passionate about building web applications</h3>
+<h1 align="center">👋 Hi there! I'm <strong>Apeksha Vilas Bide</strong></h1>
+<h3 align="center">💻 Full Stack Developer | MERN Stack | Passionate About Building Scalable Web Applications</h3>
 
-<br/>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApekshaBide&show_icons=true&theme=dracula&count_private=true&hide_border=false&include_all_commits=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApekshaBide&layout=compact&theme=dracula&langs_count=6&hide_border=false" height="150" alt="Top Languages"/>
-</div>
+## 💫 About Me  
+- 👩‍💻 I specialize in **MERN Stack Web Development**  
+- 🌱 Currently learning **Advanced React, Node.js Best Practices & System Design**  
+- 🤝 Open to collaborate on **Full-Stack Projects, UI/UX Enhancements, and Web Apps**  
+- 💬 Ask me about **React.js, Node.js, Express, MongoDB, Tailwind CSS**  
+- 🚀 Love turning ideas into real-world applications  
+- ⚡ Fun fact — *I enjoy building clean UI and solving real-world problems!*  
 
-<br/>
+---
 
-### 🛠️ Languages and Tools
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
-</div>
-
-<br/>
-
-### 📫 Connect with me
-<div align="center">
-  <a href="mailto:apekshabide2@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="mailto:apekshabide2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/apeksha-bide" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
   </a>
+</p>
+
+---
+
+## 💻 Tech Stack  
+
+### 🖥️ Frontend  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+### ⚙️ Backend  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 🛠️ Tools  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ApekshaBide&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApekshaBide&layout=compact&theme=dracula" height="170" />
 </div>
 
-<br/>
+---
 
-### 🐍 GitHub Contribution Snake Animation
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ApekshaBide&theme=radical&no-frame=true&margin-w=8" />
+</p>
 
-     
+---
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-          
-        
-     
+## ✍️ Random Dev Quote  
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-     
-> *Thanks for visiting my profile! Let’s connect and build something awesome together 🚀*
+---
+
+## 🐍 GitHub Contribution Snake  
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h4 align="center">✨ Thanks for visiting my profile! Let's connect and create something amazing together 🚀</h4>
