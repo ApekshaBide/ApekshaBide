@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi there! I'm <strong>Apeksha Vilas Bide</strong></h1>
-<h3 align="center">💻 Full Stack Developer | MERN Stack | Passionate About Building Scalable Web Applications</h3>
+<h3 align="center">💻 Full Stack Developer | MERN Stack | Java | MySQL | Passionate About Building Scalable Web Applications</h3>
 
 ---
 
 ## 💫 About Me  
 - 👩‍💻 I specialize in **MERN Stack Web Development**  
 - 🌱 Currently learning **Advanced React, Node.js Best Practices & System Design**  
-- 🤝 Open to collaborate on **Full-Stack Projects, UI/UX Enhancements, and Web Apps**  
-- 💬 Ask me about **React.js, Node.js, Express, MongoDB, Tailwind CSS**  
+- 🤝 Open to collaborate on **Full-Stack Projects, Java Projects, and Web Apps**  
+- 💬 Ask me about **React.js, Node.js, Express, MongoDB, Java, MySQL**  
 - 🚀 Love turning ideas into real-world applications  
 - ⚡ Fun fact — *I enjoy building clean UI and solving real-world problems!*  
 
@@ -43,6 +43,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
